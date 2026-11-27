@@ -1,0 +1,27 @@
+# Data & caches
+/data/
+/data_cache/
+*.npz
+*.parquet
+*.txt.gz
+
+# Outputs & checkpoints
+/outputs/
+/results/
+/checkpoints/
+*.pt
+*.pth
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+build/
+dist/
+.pytest_cache/
+.venv/
+venv/
+.DS_Store
+Thumbs.db

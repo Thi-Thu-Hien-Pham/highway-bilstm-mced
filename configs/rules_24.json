@@ -1,0 +1,39 @@
+{
+    "invariant_controls": [
+        "hsa-miR-149-3p",
+        "hsa-miR-2861",
+        "hsa-miR-4463"
+    ],
+    "mirbit_4_rules": [
+        ["hsa-miR-4258", "hsa-miR-4730"],
+        ["hsa-miR-663a", "hsa-miR-1228-5p"],
+        ["hsa-miR-6787-5p", "hsa-miR-6800-5p"],
+        ["hsa-miR-1469", "hsa-miR-1268a"]
+    ],
+    "rule_24_pairs": [
+        ["hsa-miR-4258", "hsa-miR-4730"],
+        ["hsa-miR-663a", "hsa-miR-1228-5p"],
+        ["hsa-miR-6787-5p", "hsa-miR-6800-5p"],
+        ["hsa-miR-1469", "hsa-miR-1268a"],
+        ["hsa-miR-5100", "hsa-miR-451a"],
+        ["hsa-miR-5100", "hsa-miR-1228-5p"],
+        ["hsa-miR-5100", "hsa-miR-21-5p"],
+        ["hsa-miR-21-5p", "hsa-miR-451a"],
+        ["hsa-miR-1233-5p", "hsa-miR-4532"],
+        ["hsa-miR-1343-3p", "hsa-miR-6090"],
+        ["hsa-miR-6768-5p", "hsa-miR-1268a"],
+        ["hsa-miR-122-5p", "hsa-miR-21-5p"],
+        ["hsa-miR-122-5p", "hsa-miR-451a"],
+        ["hsa-miR-375", "hsa-miR-21-5p"],
+        ["hsa-miR-375", "hsa-miR-141-3p"],
+        ["hsa-miR-200c-3p", "hsa-miR-451a"],
+        ["hsa-miR-141-3p", "hsa-miR-21-5p"],
+        ["hsa-miR-10b-5p", "hsa-miR-451a"],
+        ["hsa-miR-182-5p", "hsa-miR-145-5p"],
+        ["hsa-miR-143-3p", "hsa-miR-145-5p"],
+        ["hsa-miR-205-5p", "hsa-miR-451a"],
+        ["hsa-miR-155-5p", "hsa-miR-21-5p"],
+        ["hsa-miR-34a-5p", "hsa-miR-21-5p"],
+        ["hsa-miR-221-3p", "hsa-miR-222-3p"]
+    ]
+}

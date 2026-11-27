@@ -1,0 +1,12 @@
+{
+    "hidden_dim": 256,
+    "num_layers": 2,
+    "attn_type": "multihead",
+    "num_heads": 8,
+    "highway_dim": 256,
+    "highway_layers": 2,
+    "fused_dim": 256,
+    "dropout": 0.15,
+    "lr": 0.001,
+    "weight_decay": 0.0001
+}
