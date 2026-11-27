@@ -182,7 +182,7 @@ python scripts/evaluate_external_too.py \
 
 ---
 
-## Summary of Benchmark Results (Revision 3)
+## Summary of Benchmark Results
 
 | Model | Task / Cohort (`N_test`) | Accuracy | Sensitivity | Specificity (Healthy / Benign) | Weighted / Macro F1 | ROC-AUC |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: |
